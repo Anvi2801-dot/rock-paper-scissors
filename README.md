@@ -24,17 +24,17 @@ These can be installed by running the following command in the terminal:
 
 ## Usage
 
-![command to run program](<Screenshot 2024-11-02 at 12.47.19 PM.png>)
+![command to run program](<1.png>)
 
-![welcome](<Screenshot 2024-11-02 at 12.50.34 PM.png>)
+![welcome](<2.png>)
 
 ### **<ins>Tournament mode:**
 
-![tournament mode](<Screenshot 2024-11-02 at 12.52.52 PM.png>)
+![tournament mode](<3.png>)
 
 ### **<ins>Endless mode:**
 
-![endless mode](<Screenshot 2024-11-02 at 12.54.27 PM.png>)
+![endless mode](<4.png>)
 
 ## Functioning
 
